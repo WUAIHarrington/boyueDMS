@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BoyueDmsApplication {
 
     public static void main(String[] args) {
+        // 这是一个注释。
         SpringApplication.run(BoyueDmsApplication.class, args);
+        String str = "Hello World!";
     }
 
 }
